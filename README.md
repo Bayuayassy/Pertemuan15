@@ -1,7 +1,9 @@
 # Pertemuan15
 
 Nama : BAYU MAULANA AYASSY
+
 NIM : 312210166
+
 KELAS : TI.22.A1
 
 
